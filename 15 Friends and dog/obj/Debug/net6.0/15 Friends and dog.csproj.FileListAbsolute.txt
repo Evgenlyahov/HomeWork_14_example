@@ -1,0 +1,16 @@
+C:\Users\Kadyrov\Desktop\HW\15 Friends and dog\bin\Debug\net6.0\15 Friends and dog.exe
+C:\Users\Kadyrov\Desktop\HW\15 Friends and dog\bin\Debug\net6.0\15 Friends and dog.deps.json
+C:\Users\Kadyrov\Desktop\HW\15 Friends and dog\bin\Debug\net6.0\15 Friends and dog.runtimeconfig.json
+C:\Users\Kadyrov\Desktop\HW\15 Friends and dog\bin\Debug\net6.0\15 Friends and dog.dll
+C:\Users\Kadyrov\Desktop\HW\15 Friends and dog\bin\Debug\net6.0\ref\15 Friends and dog.dll
+C:\Users\Kadyrov\Desktop\HW\15 Friends and dog\bin\Debug\net6.0\15 Friends and dog.pdb
+C:\Users\Kadyrov\Desktop\HW\15 Friends and dog\obj\Debug\net6.0\15 Friends and dog.GlobalUsings.g.cs
+C:\Users\Kadyrov\Desktop\HW\15 Friends and dog\obj\Debug\net6.0\15 Friends and dog.csproj.AssemblyReference.cache
+C:\Users\Kadyrov\Desktop\HW\15 Friends and dog\obj\Debug\net6.0\15 Friends and dog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kadyrov\Desktop\HW\15 Friends and dog\obj\Debug\net6.0\15 Friends and dog.AssemblyInfoInputs.cache
+C:\Users\Kadyrov\Desktop\HW\15 Friends and dog\obj\Debug\net6.0\15 Friends and dog.AssemblyInfo.cs
+C:\Users\Kadyrov\Desktop\HW\15 Friends and dog\obj\Debug\net6.0\15 Friends and dog.csproj.CoreCompileInputs.cache
+C:\Users\Kadyrov\Desktop\HW\15 Friends and dog\obj\Debug\net6.0\15 Friends and dog.dll
+C:\Users\Kadyrov\Desktop\HW\15 Friends and dog\obj\Debug\net6.0\ref\15 Friends and dog.dll
+C:\Users\Kadyrov\Desktop\HW\15 Friends and dog\obj\Debug\net6.0\15 Friends and dog.pdb
+C:\Users\Kadyrov\Desktop\HW\15 Friends and dog\obj\Debug\net6.0\15 Friends and dog.genruntimeconfig.cache
