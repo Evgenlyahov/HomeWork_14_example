@@ -1,0 +1,16 @@
+C:\Users\Kadyrov\Desktop\HW\0\bin\Debug\net6.0\0.exe
+C:\Users\Kadyrov\Desktop\HW\0\bin\Debug\net6.0\0.deps.json
+C:\Users\Kadyrov\Desktop\HW\0\bin\Debug\net6.0\0.runtimeconfig.json
+C:\Users\Kadyrov\Desktop\HW\0\bin\Debug\net6.0\0.dll
+C:\Users\Kadyrov\Desktop\HW\0\bin\Debug\net6.0\ref\0.dll
+C:\Users\Kadyrov\Desktop\HW\0\bin\Debug\net6.0\0.pdb
+C:\Users\Kadyrov\Desktop\HW\0\obj\Debug\net6.0\0.GlobalUsings.g.cs
+C:\Users\Kadyrov\Desktop\HW\0\obj\Debug\net6.0\0.csproj.AssemblyReference.cache
+C:\Users\Kadyrov\Desktop\HW\0\obj\Debug\net6.0\0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kadyrov\Desktop\HW\0\obj\Debug\net6.0\0.AssemblyInfoInputs.cache
+C:\Users\Kadyrov\Desktop\HW\0\obj\Debug\net6.0\0.AssemblyInfo.cs
+C:\Users\Kadyrov\Desktop\HW\0\obj\Debug\net6.0\0.csproj.CoreCompileInputs.cache
+C:\Users\Kadyrov\Desktop\HW\0\obj\Debug\net6.0\0.dll
+C:\Users\Kadyrov\Desktop\HW\0\obj\Debug\net6.0\ref\0.dll
+C:\Users\Kadyrov\Desktop\HW\0\obj\Debug\net6.0\0.pdb
+C:\Users\Kadyrov\Desktop\HW\0\obj\Debug\net6.0\0.genruntimeconfig.cache
